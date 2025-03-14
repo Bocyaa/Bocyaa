@@ -40,22 +40,9 @@ I'm currently pursuing my Bachelor's degree in **Wirtschaftsinformatik (Business
 
 ---
 
-### 🚀 Areas of Passion
-- **Server and Database Management:** <br/>
-Developed, now Operating and maintaining my own server and database setup at home, allowing me to experiment freely with hosting and backend solutions.
-- **Software Development & AI:** <br/>
-Currently exploring AI and machine learning, with plans to integrate these technologies into future apps to solve real-world problems and significantly enhance user experiences.
-- **App Development & Product Design:** <br/>
-Committed to designing applications that are both visually appealing and user-friendly (UI/UX).
-- **Engineering & Product Development:** <br/>
-Enthusiastic about creating hardware products using semiconductors, wiring, and programming, use 3D printer for product prototypes at home.
-
-### 🎯 Goals & Aspirations
-- 🚀 Develop innovative, meaningful applications and services that inspire and add value.
-- 🌱 Continuously learn, grow, and improve my skills through collaborative projects, hands-on experiences, and lifelong learning.
-
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Bocyaa&theme=dark&hide_border=true)      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bocyaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Bocyaa&theme=dark&hide_border=true)      
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bocyaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📫 Connect With Me
 I am always eager to collaborate, discuss exciting projects, or exchange ideas. Feel free to reach out and connect!

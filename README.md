@@ -1,7 +1,7 @@
 # 👋 Welcome! I'm Bob
 
-### 📚 About Me
-I'm currently pursuing my Bachelor's degree in **Wirtschaftsinformatik (Business Informatics)** at a renowned university in Nürnberg, Germany 🇩🇪. My studies combine **Economics, Business, Software Development, and Computer Science**, enabling me to deeply understand how businesses can leverage technology to solve challenges and create innovative opportunities.
+### 🥸 About Me
+Everyday I'm being the detective in a crime movie where I’m also the murderer.
 
 ## 💻 Tech Stack:
 **Programming Languages:** <br/>

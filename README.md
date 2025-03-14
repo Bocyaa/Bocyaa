@@ -41,8 +41,7 @@ I'm currently pursuing my Bachelor's degree in **Wirtschaftsinformatik (Business
 ---
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Bocyaa&theme=dark&hide_border=true)      
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bocyaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Bocyaa&theme=dark&hide_border=true)      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bocyaa&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### 📫 Connect With Me
 I am always eager to collaborate, discuss exciting projects, or exchange ideas. Feel free to reach out and connect!

@@ -47,7 +47,7 @@ Everyday I'm being the detective in a crime movie where I’m also the murderer.
 ## 📫 Connect With Me
 
 - **GitHub:** [Bocyaa](https://github.com/Bocyaa)
-- **LinkedIn:** [bobhab](https://linkedin.com/in/bobhab)
+- **LinkedIn:** [BobHab](https://linkedin.com/in/bobhab)
 - **Email:** [akhabirov@icloud.com](mailto:akhabirov@icloud.com)
 
 Thanks for stopping by!

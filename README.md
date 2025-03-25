@@ -1,4 +1,4 @@
-# 👋 Welcome! I'm Bob
+# About Me:
 
 ## Tech Stack:
 ### Programming Languages: <br/>

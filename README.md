@@ -41,7 +41,6 @@
 
 ## 📫 Connect With Me
 
-- **GitHub:** [Bocyaa](https://github.com/Bocyaa)
 - **LinkedIn:** [BobHab](https://linkedin.com/in/bobhab)
 - **Email:** [akhabirov@icloud.com](mailto:akhabirov@icloud.com)
 

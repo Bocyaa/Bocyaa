@@ -39,7 +39,7 @@
 ## GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Bocyaa&theme=dark&hide_border=true)      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bocyaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 📫 Connect With Me
+## 📫 Connect 
 
 - **LinkedIn:** [BobHab](https://linkedin.com/in/bobhab)
 - **Email:** [akhabirov@icloud.com](mailto:akhabirov@icloud.com)
